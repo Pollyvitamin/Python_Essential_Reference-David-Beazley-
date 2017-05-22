@@ -1,3 +1,5 @@
+#стр. 125
+
 class NetworkError(Exception): # наследует класс Exception
 	pass 
 raise NetworkError('Невозможно найти компьютер в сети.')
