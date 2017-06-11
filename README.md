@@ -12,3 +12,9 @@ Useful examples from Python_Essential_Reference(David Beazley)
 'classes registrar'.py - Регистратор классов
 
 'Using the tarfile module'.py - Использование модуля tarfile
+
+'Using the subprocess module'.py - Выполнение системных команд
+
+'Using the optparse module'.py - Парсинг аргуметов командной строки
+
+'Using the fnmatch and glob modules'.py - Модуль fnmatch обеспечивает поддержку сопоставления имен файлов с применением шаблонных символов, как это делает командная оболочка в системе UNIX. Модуль glob позволяет получить список всех имен файлов в каталоге, соответствующих указанному шаблону, с применением правил командной оболочки UNIX.
